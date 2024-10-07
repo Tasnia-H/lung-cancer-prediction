@@ -1,2 +1,2 @@
-# Machine-Learning
-Lung Cancer Prediction Project using ML models
+Machine-Learning Project
+Lung Cancer Prediction using ML models
