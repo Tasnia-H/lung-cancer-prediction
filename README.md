@@ -1,1 +1,1 @@
-Lung Cancer Prediction Project using ML models
+Lung Cancer Prediction project using ML models
